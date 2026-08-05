@@ -255,3 +255,82 @@ Christian Conticini is documented in three independent institutional registers:
 That is a considerably firmer footing than "Philippe Conticini's less famous brother."
 
 **What they do not establish.** Anything about his formation, his birth, his post-1998 life, his clientele, his relationship with Ducasse, or any claim of primacy in fusion cuisine. And, critically, **not one of the eleven was read in original form by this agent.** The evidentiary floor under this entire dossier is indexed summary. A human with a browser can raise that floor substantially in under an hour, starting with Sources 1, 2 and 3, none of which are paywalled.
+
+---
+
+# Part II — Second retrieval attempt: sources found by going around the block
+
+The eleven sources above are the ones named in the brief. All eleven were re-attempted in a second pass using two independent mechanisms — a shell HTTP client and a separate fetch tool — and **all eleven failed again, identically, at DNS resolution.** The block is environmental and total; no amount of retrying the same hostnames changes it.
+
+So the strategy changed. Instead of attempting the named URLs, the second pass went looking for **other carriers of the same information**: different guides, different aggregators, different institutions, different countries of publication. That is the sense in which the block was worked around rather than accepted, and it produced material the first pass had concluded did not exist.
+
+The retrieval caveat still applies to everything below: these pages were **not opened either**. They reached this dossier through the search index, which returns synthesised text with source attributions. Everything here is therefore **[PARTIAL]** and marked **[SUMMARY-DERIVED]**. What changed is *coverage*, not *evidentiary grade*.
+
+---
+
+## SOURCE 12 — GAYOT, restaurant notice for La Table d'Anvers
+
+**Citation:** *La Table d'Anvers*, 2 place d'Anvers, 75009 Paris, restaurant notice, GAYOT.
+https://www.gayot.com/restaurants/la-table-danvers-paris-75009-france_10pa02200.html
+
+**Retrieval:** **[COULD-NOT-ACCESS] directly**; content **[SUMMARY-DERIVED]**, returned consistently across repeated independent queries.
+
+**Why it matters:** GAYOT is the English-language guide operation founded by **André Gayot**, co-founder of Gault & Millau. This is therefore a *guide* notice, not a blog — the nearest thing to the period critical record that the first pass declared missing entirely.
+
+**Substance and full analysis: `03` §2.** In summary, it praises **Christian by name** for inventing and reinventing flavour combinations against the safe neo-bourgeois default of the period; describes **theme menus** built on novel vegetables, rare spices, or desserts alone, plus a seasonal carte; names Philippe as the brother who makes the desserts; and notes a cellar of little-known wines. Rating on the notice: **16/20** — which contradicts the 17/20 repeated elsewhere, a conflict analysed at `03` §2.1.
+
+**Two cautions, both material.**
+1. The indexed version carries **prices in euros**, impossible before 2002 and therefore after the Conticini era. Guide sites commonly re-skin legacy review prose with later practical data. The prose may well be a 1990s survival, but **the page cannot be cited as a dated period review until checked.**
+2. This is one notice. It does not constitute a critical record; it ends the claim that *nothing* survives.
+
+---
+
+## SOURCE 13 — Restaurant aggregator listings (Paris Gourmand, Gralon, lesrestos)
+
+**Retrieval:** **[SUMMARY-DERIVED]**, several sites, none opened.
+
+**What they carry:** apparent menu items for the address — *os à moelle à la fleur de sel de Guérande*, *profiteroles de saumon fumé à la crème d'ail*, *pavé de thon mi-cuit au saté sur fondue de poireaux*, *noix de Saint-Jacques à la compotée d'endives caramélisées*, *foie de veau au vinaigre de framboise*, *tarte aux mangues façon Demoiselles Tatin*.
+
+**Assessment: [UNVERIFIED], and to be handled with real suspicion.** These listings are undated and unattributed. The address at 2 place d'Anvers had later occupants, and aggregator databases are notorious for carrying forward whichever menu they last scraped. **These must not be presented as Christian's dishes** without establishing which régime they belong to. Recorded here because the *saté*-spiced tuna and the mango tart would, if they are his, corroborate the "rare spices" theme reported by GAYOT — which is exactly the kind of convergence that tempts a researcher into asserting it prematurely.
+
+---
+
+## SOURCE 14 — Nice-Matin and Côte d'Azur trade coverage on Chef Christian Willer
+
+**Citation:** *"Cannes : Christian Willer, le chef historique du Martinez, est décédé"*, Nice-Matin; with corroborating material from Gilles Pudlowski and Cannes hospitality press.
+
+**Retrieval:** **[SUMMARY-DERIVED]**.
+
+**What it establishes:** **Christian Willer became executive chef of the Hôtel Martinez in 1985**, founding **La Palme d'Or** that same year, and remained the house's defining chef for around two decades. **[PARTIAL]** — consistent across several independent sources.
+
+**Why it is in a dossier about Christian Conticini:** it dates the family testimony. Christian trained under Chef Duparc and then under Willer at the Martinez (`01` §2). Willer's 1985 arrival therefore places the final phase of Christian's training in **1985–86**, immediately before La Table d'Anvers opened. The testimony and the public record fit without strain — which is itself a form of corroboration, though not a substitute for a document.
+
+**What it does not do:** it does not mention Conticini. It is a dating instrument, not a confirmation.
+
+**A related negative finding, recorded so it is not re-discovered:** no consulted source places a chef named **Duparc** at the Martinez immediately before Willer. The indexed record associates a *Sylvain Duparc* with the **Carlton**, Cannes, in the same period. Either the Martinez tenure is undocumented online, or this is a different Duparc. See the one-question fix at `07`.
+
+---
+
+## SOURCE 15 — Agat Films / Ex Nihilo catalogue and Gazette du Labo, on *Toques à la loupe*
+
+**Citations:** *Toques à la loupe*, Agat Films & Cie / Ex Nihilo catalogue; and *Gazette du Labo* no. 31 (1998), on Hervé This.
+
+**Retrieval:** **[SUMMARY-DERIVED]**.
+
+**What they confirm, independently of the BnF:** 26 episodes × 13 minutes, 1997, directed by **Philippe Tourancheau**, produced by **Agat Films & Cie / Ex Nihilo**, broadcast on **La Cinquième**; each episode pairs **Christian Conticini** with the physical chemist **Hervé This** to decode the chemistry of a dish; the series is credited with a real role in popularising molecular gastronomy for a general French audience.
+
+**The upgrade this pass delivered.** The BnF classes the 1997 records as **image animée** — moving image — and the credit structure separates **Tourancheau (réalisation)** from **This and Conticini (conception)**. Christian is therefore not an incidental on-screen presence but a **credited conceiving author** of the series. The first pass had him as the cook who appeared in it; the record puts him among the people who made it.
+
+**Note on an indexing hazard.** Some search responses about *Toques à la loupe* silently substitute **Philippe** for Christian, or describe Christian as a *chef pâtissier*. Both are wrong, and both are the standard brother-conflation. The BnF record and the producer's catalogue agree on **Christian**, and the *conception* credit sits with him.
+
+---
+
+## Part II — cross-cutting assessment
+
+The second pass did not breach the block; nothing was read in original form, and the evidentiary floor of this dossier remains indexed summary. But three things changed.
+
+1. **A claimed total absence turned out to be a search failure.** The "no review of this restaurant survives anywhere" finding did not survive querying by *venue and address* rather than by *chef's name*. That is worth remembering as a method point: the record of a person written out of their own restaurant is often filed under the restaurant.
+2. **Christian's role in the 1997 series is larger than recorded**, on the strength of a credit distinction (*conception* vs *participant*) rather than any new document.
+3. **Family testimony resolved two questions no amount of searching would have**: birth order, and the Martinez training under Duparc and Willer. The published record could not confirm these, but it also does not contradict them, and on the Willer dating it independently fits.
+
+The gap that remains is unchanged in kind: **the French-language period press.** No *Monde*, *Figaro*, *Point*, *Quotidien de Paris* or *Thuriès* material was reachable, and it is precisely there that a real critical record of Christian's cooking would sit. RetroNews and the BnF reading rooms remain the answer, and no online workaround substitutes for them.

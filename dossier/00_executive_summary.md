@@ -84,14 +84,16 @@ So each "1997 work" in Christian's BnF authority file is **one episode of that s
 | Christian Conticini is a real, distinct person from Philippe; his brother | [VERIFIED] | Multiple independent indexed sources, consistent |
 | Co-founded *La Table d'Anvers*, place d'Anvers, Paris 9e, 1986 | [VERIFIED] | Multiple independent indexed sources, consistent |
 | Division of labour: Christian = savoury/cuisine; Philippe = pastry | [VERIFIED] | Consistently stated across every source touching the restaurant |
-| Restaurant held 1 Michelin star and 17/20 Gault & Millau | [PARTIAL] | Widely and consistently repeated; **no guide edition, year or page verified** |
+| Restaurant held 1 Michelin star and 17/20 Gault & Millau | [PARTIAL] | Widely and consistently repeated; **no guide edition, year or page verified**, and the one actual guide page located (GAYOT) carries **16/20**, not 17. See `03` §2.1 |
 | On-screen chef of *Toques à la loupe*, 1997, with Hervé This | [PARTIAL→strong] | BnF notice + producer catalogue, both via indexed summary |
 | BnF authority record exists: ark:/12148/cb121149081, id 12114908 | [PARTIAL] | Record confirmed to exist and be indexed; not read directly |
 | *La Cuisine gourmande des stars*, 1989 | [PARTIAL] | In BnF listing; **attribution Christian vs Philippe is genuinely unresolved** |
 | Authored *Libération* piece, 12 July 1994, attacking the cult of the "sain, authentique et naturel" product | [PARTIAL] | Berthomeau blog post of July 2021, via indexed summary. Berthomeau situates it in Libération's *Rebonds* op-ed section |
 | Authored *Libération*, 18 April 1998, "Savez-vous manger les choux ?" | [PARTIAL] | Liberation.fr archive URL + date confirmed; **body text never seen** |
 | Father Roger Conticini; L'Express May 1993 "La maison Conticini, de fils en père" is about the father opening his own place *after* helping the sons | [PARTIAL] | Indexed summary of the L'Express page |
-| Trained at Hôtel Martinez, Cannes | [UNVERIFIED] | Nothing found. Searches collapse onto Christian *Sinicropi*, a different chef — a name-collision trap |
+| Trained at Hôtel Martinez, Cannes, under Chef Duparc then Chef Christian Willer | [FAMILY TESTIMONY] | Stated as fact by an immediate family member of the subject. No published source; searches collapse onto Christian *Sinicropi*, a different chef — a name-collision trap. Fits the documented record: Willer became executive chef of the Martinez in 1985 |
+| Christian is the **elder** brother | [FAMILY TESTIMONY] | Stated by an immediate family member. Consistent with his holding the *chef de cuisine* post over Philippe |
+| A period-style guide review of the restaurant exists, with **Christian** as its subject | [PARTIAL] | GAYOT notice for 2 place d'Anvers, via indexed summary. Praises Christian for inventing and reinventing flavour combinations; theme menus on novel vegetables and rare spices. See `03` §2 |
 | Friendship with Alain Ducasse | [UNVERIFIED] | Nothing found. Only circumstantial contemporaneity |
 | "First French restaurateur to do fusion / Franco-Peruvian" | [UNVERIFIED] | No source. The *Ceviche de langoustine* episode is real but is evidence of a technique on television in 1997, not of primacy |
 | Celebrity/political clientele (Fujimori, Brad Pitt, Jennifer Aniston, French public figures) | [UNVERIFIED] | **No published source of any kind.** See below |
@@ -113,7 +115,13 @@ The dossier therefore tags the claim **[UNVERIFIED]**, states that first-hand te
 
 ## What is newly established here, versus earlier attempts
 
-**Newly established:**
+**Newly established in this second pass (after the retrieval block was worked around rather than accepted):**
+- **A guide review whose subject is Christian exists.** The earlier finding that *no* review of the restaurant survived anywhere was wrong and is withdrawn. The GAYOT notice praises **Christian** by name for inventing and reinventing flavour combinations, and describes theme menus built on novel vegetables and rare spices. `03` §2.
+- **Christian is the elder brother**, and **trained at the Hôtel Martinez under Chef Duparc then Chef Christian Willer** — both on family testimony, which this dossier now tags and weights explicitly rather than lumping with unsourced web assertion.
+- **Willer took over the Martinez kitchen in 1985**, which dates the tail of Christian's training to immediately before the 1986 opening of La Table d'Anvers.
+- **The BnF classes the 1997 records as *image animée*** — moving image — with Christian credited on **conception**, not merely as a participant. This independently confirms the TV-series identification below and strengthens his authorial role in it.
+
+**Established in the first pass:**
 - The 1997 BnF "works" are television episodes of *Toques à la loupe*, not printed recipes — with director, producer, broadcaster, episode count and duration attached.
 - Christian is the on-screen cooking counterpart to Hervé This in that series.
 - The correct archive for the 1997 material is INA / BnF audiovisual deposit, not the book stacks.
@@ -125,10 +133,10 @@ The dossier therefore tags the claim **[UNVERIFIED]**, states that first-hand te
 - "Ceviche de langoustine proves a Peruvian-fusion menu" → it is an episode title. It remains suggestive; it is not menu evidence.
 
 **Still open, and honestly so:**
-- Every one of the eleven primary sources remains unread in original form by this agent.
-- The Michelin/Gault & Millau ratings have no verified guide edition behind them.
+- Every one of the eleven primary sources remains unread in original form by this agent; a second retrieval attempt using independent mechanisms failed identically.
+- The Michelin/Gault & Millau ratings have no verified guide edition behind them, and the located guide page disagrees with the repeated figure.
 - The *Libération* column: two dated pieces are known to exist; the full byline inventory is unbuilt.
-- Martinez, Ducasse, fusion primacy, clientele: all unverified.
+- Ducasse, fusion primacy, clientele: all unverified. The Martinez training is now family-attested but still undocumented in print — see `01` §2 for how to close it.
 
 ---
 

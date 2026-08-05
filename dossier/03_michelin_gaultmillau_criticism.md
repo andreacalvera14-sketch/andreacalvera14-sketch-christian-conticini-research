@@ -45,21 +45,53 @@ This is Philippe's award, not Christian's, and the brief's scope rule applies. I
 
 ---
 
-## §2 What is entirely missing: the critical text
+## §2 The critical text — one review recovered
 
-**No review of La Table d'Anvers — from any critic, in any publication, from any year — was located in this research.**
+An earlier pass through this material concluded that **no review of La Table d'Anvers, from any critic in any publication, existed anywhere reachable.** That conclusion was wrong, and it is withdrawn. A second, wider retrieval attempt — going around the blocked primary URLs rather than at them — located a **surviving guide review whose subject is Christian's cooking specifically**.
 
-Not a Gault & Millau notice. Not a Michelin entry. Not *Le Monde*, *Le Figaro*, *Libération*, *Le Point*, *L'Express*, *Le Quotidien de Paris*, *Thuriès Gastronomie Magazine*. Nothing.
+### The GAYOT notice
 
-This is a total absence, and it means the following questions have **no evidence at all** behind them:
+**Citation:** *La Table d'Anvers*, 2 place d'Anvers, 75009 Paris — restaurant notice, GAYOT (the English-language guide operation founded by **André Gayot**, co-founder of Gault & Millau). https://www.gayot.com/restaurants/la-table-danvers-paris-75009-france_10pa02200.html — now flagged "THIS RESTAURANT IS CLOSED".
 
-- What did critics actually say about **Christian's savoury cooking**?
-- What dishes were singled out?
-- Was the cooking described as classical, modern, *nouvelle*, inventive, technical, fusion?
-- Was any Peruvian, Latin-American or Asian influence noted at the time?
-- How did critics handle the two-brothers structure — did they treat the savoury and sweet halves as one restaurant or two?
+**Retrieval:** **[PARTIAL]**. The page could not be opened directly — gayot.com was unreachable on the same DNS block as everything else. Its text reached this dossier through the search index, which returned it at length and consistently across repeated queries. **It is therefore reported as [SUMMARY-DERIVED] and must be confirmed against the live page before being quoted in print.**
 
-Until at least one period review is in hand, **any characterisation of Christian's cooking style is speculation.** This dossier declines to supply one.
+**Rating carried on the notice: 16/20.** Note that this is **not** the 17/20 repeated across the biographical web pages. See §2.1.
+
+**What the notice says [SUMMARY-DERIVED]:** that while so many chefs fall back on a safe, reassuring repertoire of neo-bourgeois and bistro dishes to conceal a lack of inspiration, **Christian Conticini invents and reinvents flavour combinations** with a wizardry the reviewer calls staggering; that a reader tempted by the prospect of a **real gastronomic adventure** should climb up to his Table at the foot of Montmartre; that the draw is a set of **theme menus** — built around novel vegetables, rare spices, or desserts alone — alongside a **carte keyed to the seasons**; that the options are so uniformly enticing the reviewer resorts to choosing at random; that the **desserts are by Christian's brother Philippe**; and that the cellar holds **a wealth of little-known wines**.
+
+### Why this single document matters more than its length suggests
+
+It is the first located text in which **Christian is the grammatical subject of the critical praise**. Everywhere else in the record, Christian appears as a dependent clause attached to Philippe. Here the structure inverts: it is *Christian's* Table, *Christian* invents, and Philippe enters as the brother who does the desserts. For a figure whose entire documentary problem is being written out of his own restaurant, that inversion is the substantive finding.
+
+It also converts several previously unanswerable questions into answered ones:
+
+- **What did critics say about Christian's savoury cooking?** That its distinguishing quality was **invention in flavour combination**, explicitly set against the safe neo-bourgeois/bistro default of the period.
+- **Classical, modern, or inventive?** Unambiguously placed on the inventive side, and *defined by contrast* with conservatism.
+- **How was the restaurant structured?** Around **theme menus** — vegetables, rare spices, all-dessert — plus a seasonal carte. The all-dessert menu is a notable early instance of dessert treated as a full savoury-equivalent course structure.
+- **Was a non-French influence noted?** Not in these terms. But **"rare spices"** as an organising theme of a menu is the closest thing in the record to a period, third-party trace of the interest that later produced the 1997 *Ceviche de langoustine*. It is suggestive; it is not a statement about Peru. See §3.
+- **Two brothers, one restaurant or two?** One restaurant, one authority, with pastry named as a distinct and celebrated department inside it.
+
+### §2.1 The 16/20 problem — do not paper over this
+
+The notice's **16/20** contradicts the **17/20** stated across the biographical pages. Both cannot describe the same edition. Three readings, none yet eliminable:
+
+1. **Different years.** Guide scores move. A house could hold 17 at its peak and 16 in another edition, or the reverse. This is the likeliest explanation and it is unremarkable.
+2. **Different guides.** GAYOT and Gault & Millau share an origin in André Gayot but have been separate operations for decades, scoring independently.
+3. **The 17/20 is unsourced repetition.** It remains, as §1 records, attached to no named edition anywhere.
+
+**Consequence for this dossier:** the 17/20 stays **[PARTIAL]**, and is now additionally flagged as **contradicted by the one rating found on an actual guide page**. A dated print edition of either guide settles it; nothing short of that does.
+
+**A dating caution on the GAYOT page.** The indexed version of that notice carries prices in **euros**, which cannot predate 2002 — after the Conticini restaurant had gone. Guide sites routinely re-skin legacy review text with later-scraped practical data, so the review prose and the price block are probably of different dates, and the prose may well be a survival of a 1990s notice. **Do not cite the page as a dated 1990s review until the live page and, ideally, a print edition are checked.** This caveat is the reason the whole entry is [PARTIAL] and not [VERIFIED].
+
+### What is still missing
+
+One guide notice is not a critical record. Still not located, and still worth pursuing:
+
+- Any **French-language** review — *Le Monde*, *Le Figaro*, *Libération*, *Le Point*, *L'Express*, *Le Quotidien de Paris*, *Thuriès Gastronomie Magazine*.
+- Any **dated** Michelin or Gault & Millau entry, which alone can fix the star's first year and the true score.
+- Any review that discusses the cooking's **influences** rather than its quality.
+
+A second, unrated route now also exists: aggregator listings (Paris Gourmand, Gralon, lesrestos) carry what appear to be **period menu items** — *os à moelle à la fleur de sel de Guérande*, *profiteroles de saumon fumé à la crème d'ail*, *pavé de thon mi-cuit au saté sur fondue de poireaux*, *noix de Saint-Jacques à la compotée d'endives caramélisées*. **[UNVERIFIED]** — these listings are undated, unattributed, and may describe a later occupant of the address rather than the Conticini restaurant. **Do not treat them as Christian's dishes without confirming which régime the menu belongs to.** The *saté* on tuna, if it is his, would be a second trace of the spice-and-elsewhere interest; that is precisely why it needs checking rather than adopting.
 
 ---
 

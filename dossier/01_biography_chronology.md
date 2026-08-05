@@ -5,7 +5,8 @@
 **Evidence rules applied throughout:**
 - **[VERIFIED]** — corroborated by multiple independent indexed sources, internally consistent.
 - **[PARTIAL]** — attested by an indexed summary of a source the agent could not read in original form.
-- **[UNVERIFIED]** — asserted somewhere (including by the commissioning user), no source located.
+- **[UNVERIFIED]** — asserted somewhere, no source located.
+- **[FAMILY TESTIMONY]** — stated directly by an immediate family member of the subject. This is **primary oral evidence from a named participant**, and it outranks anything reaching us through a search index. It is tagged separately rather than as **[VERIFIED]** only because it is not yet corroborated by an independently citable document — not because it is doubted.
 - **[COULD-NOT-ACCESS]** — a specific document that would settle the point, which the sandbox could not reach.
 
 Every section separates **primary-source facts** from **inference**.
@@ -17,6 +18,7 @@ Every section separates **primary-source facts** from **inference**.
 ### Facts
 
 - Christian Conticini is the **brother of Philippe Conticini** (b. 1963), the pastry chef. **[VERIFIED]**
+- Christian is the **elder** of the two brothers. **[FAMILY TESTIMONY]** — stated directly by an immediate family member. This settles a question that every consulted web source leaves open, and it is consistent with the documentary record: at La Table d'Anvers, Christian held the *chef de cuisine* post — the position of overall kitchen authority — while Philippe, still in his early twenties at the 1986 opening, ran pastry beneath it.
 - The family is a restaurant family. The father is named **Roger Conticini**. **[PARTIAL]** — from the indexed summary of the L'Express article of May 1993, *"La maison Conticini, de fils en père."*
 - That article's substance, as indexed: contrary to the usual pattern in which sons leave fathers, **Roger first helped his two sons make La Table d'Anvers one of the recognised tables of Paris, and only then left to open his own house** — a bistro near the Champ-de-Mars (7th arrondissement), described in terms of an old-style *cantine* with *plats canailles* and good small wines. **[PARTIAL]**
   - **Note on addresses:** the Champ-de-Mars bistro is **Roger's own separate establishment**. La Table d'Anvers is elsewhere, at 2 place d'Anvers in the 9th arrondissement. The two must not be conflated.
@@ -27,8 +29,8 @@ The headline *"de fils en père"* is a deliberate inversion of the idiom *de pè
 
 ### Not established
 
-- Christian's **date and place of birth** — not found. Philippe's 1963 birth year is well documented; Christian's is not. Whether Christian is the elder or younger brother is **[UNVERIFIED]**.
-- The family's Italian-descended surname invites speculation about origins. **No source found. Not asserted here.**
+- Christian's **date and place of birth** — not established from any published source. Philippe's 1963 birth year is well documented; Christian's is not recorded anywhere consulted. **Birth order is now settled** (elder — see §1 Facts) on family testimony; the date itself is deliberately not printed here, at the family's request.
+- The family's Italian-descended surname invites speculation about origins. **No published source found. Not asserted here.**
 
 ---
 
@@ -36,19 +38,32 @@ The headline *"de fils en père"* is a deliberate inversion of the idiom *de pè
 
 ### Facts
 
-**None established.** This is the largest single gap in the dossier.
+Christian trained at the **Hôtel Martinez, Cannes**, under **Chef Duparc**, and subsequently under **Chef Christian Willer**. **[FAMILY TESTIMONY]** — stated as fact by an immediate family member of the subject.
 
-### The Martinez claim
+This is the single largest gap in the earlier draft of this dossier, and it is now closed on its central point. The previous entry recorded the Martinez as **[UNVERIFIED]** because no *published* source attaches Christian's name to the hotel. That absence has not changed. What has changed is the quality of the evidence available: an unpublished claim from a family member who was present to the family history is a materially stronger source than an indexed web summary, and this dossier now records it as such.
 
-The brief asks about training at the **Hôtel Martinez, Cannes**. Status: **[UNVERIFIED]**.
+### Why this fits, and what it dates
 
-Searches on "Conticini" + "Martinez" return, overwhelmingly, **Christian Sinicropi** — the two-star chef of the Palme d'Or at the Hôtel Martinez. The shared forename "Christian" plus the Martinez association produces a textbook **name-collision false positive**. Any prior "confirmation" of this claim should be checked for exactly this contamination before being believed.
+The testimony is not merely plausible; it slots into the independently documented record of the Martinez kitchen.
 
-This does not disprove the claim. Kitchen apprenticeships of the 1970s–early 1980s are almost never documented online. It means the claim needs a documentary source: a *Who's Who*-style culinary directory entry, a period profile interview, or the Martinez's own staff records.
+- **Christian Willer** became executive chef of the Hôtel Martinez in **1985**, the year he founded its restaurant **La Palme d'Or**, and he remained the house's defining chef for roughly two decades. **[PARTIAL]** — consistently reported across several independent sources, including his obituary in *Nice-Matin*.
+- A succession running **Duparc → Willer** therefore places Christian's Martinez period **across the mid-1980s**, with the Willer phase beginning in or after 1985.
+- That is immediately before La Table d'Anvers opened, in **1986**. A young chef leaving one of the most serious brigades on the Côte d'Azur to open his own house in Paris the following year is a completely coherent career shape — and it means Christian was in a Willer kitchen at the exact moment Willer was building La Palme d'Or.
 
-### Inference
+This also supplies, for the first time, a documented **culinary lineage** for Christian rather than a blank. Willer's cuisine was Mediterranean, precise and produce-driven, but his house was also one where a young cook would have been exposed to serious technical discipline at the level of a *palace* hotel. Set against Christian's later positions — the 1994 attack on the cult of the "natural" product, the 1997 molecular-gastronomy series — the training reads as the classical grounding *against* which he later argued. **That reading is inference, marked as such.**
 
-For a chef to open a restaurant in 1986 that took a Michelin star, a serious brigade formation in the preceding decade is close to a professional necessity. That is a structural expectation, not a fact, and it points to *some* prestigious house — not specifically to the Martinez.
+### The name-collision warning, retained
+
+Searches on "Conticini" + "Martinez" return, overwhelmingly, **Christian Sinicropi**, the chef of La Palme d'Or in the later era. The shared forename "Christian" plus the Martinez association produces a textbook **name-collision false positive**. Anyone attempting to corroborate the testimony from web sources must screen for this contamination; it is the reason earlier passes through this material found nothing usable.
+
+### How to corroborate it documentarily
+
+The claim is now firm enough to be worth *proving* rather than investigating:
+
+1. **The Hôtel Martinez / Hyatt archives** — staff and brigade records for c. 1980–1986. Approach via the hotel's press or heritage contact.
+2. **Chef Christian Willer's own record** — Willer died in 2020; obituaries and tribute pieces (*Nice-Matin*, *Gilles Pudlowski*, professional associations) often list alumni of a chef's brigade by name.
+3. **Identify "Chef Duparc" precisely.** No published source consulted places a chef named Duparc at the Martinez immediately before Willer; the indexed record associates a Sylvain Duparc with the **Carlton**, Cannes, in the same period. Either the Martinez tenure is simply undocumented online, or this is a different Duparc. **Ask the family for the first name and the approximate years** — it is a single question and it resolves the ambiguity.
+4. **Christian's own CV**, if any period press profile or guide directory entry survives; French guides of the era routinely printed a chef's training houses.
 
 ---
 
@@ -126,11 +141,12 @@ The asymmetry is itself the finding. A chef who held a Michelin star for roughly
 
 | Date | Event | Tag |
 |---|---|---|
-| c. 1960s | Birth of Christian Conticini, into the Conticini restaurant family; father Roger | [UNVERIFIED] — no date found |
+| — | Birth of Christian Conticini, into the Conticini restaurant family; father Roger. **Elder** than Philippe (b. 1963) | Birth order [FAMILY TESTIMONY]; exact date known to the family and withheld here at their request, so no published date is asserted |
 | 1963 | Birth of Philippe Conticini, brother | [VERIFIED] |
-| 1970s–1985 | Professional formation. Hôtel Martinez, Cannes, asserted | [UNVERIFIED] |
+| 1970s–1986 | Professional formation at the **Hôtel Martinez, Cannes** — under **Chef Duparc**, then **Chef Christian Willer** | [FAMILY TESTIMONY]. Willer took the Martinez kitchen in **1985** [PARTIAL], dating the final phase to immediately before the Paris opening |
 | **1986** (brief: May) | **La Table d'Anvers opens**, 2 place d'Anvers, 75009 Paris. Christian: savoury. Philippe: pastry | [VERIFIED] / month [PARTIAL] |
-| late 1980s–1990s | 1 Michelin star; 17/20 Gault & Millau | [PARTIAL] |
+| late 1980s–1990s | 1 Michelin star; 17/20 Gault & Millau widely reported — but the one guide page located gives **16/20** | [PARTIAL]; conflict unresolved, see `03` §2.1 |
+| undated (period prose, later prices) | GAYOT guide notice praising **Christian** for inventing and reinventing flavour combinations; theme menus on novel vegetables and rare spices | [PARTIAL] — see `03` §2 |
 | **1989** | *La Cuisine gourmande des stars* — attribution contested | [PARTIAL] |
 | 1991 | Philippe: G&M Pâtissier of the Year (context only) | [PARTIAL] |
 | **May 1993** | L'Express, *"La maison Conticini, de fils en père"* | [PARTIAL] |

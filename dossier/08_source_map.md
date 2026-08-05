@@ -72,8 +72,8 @@ Several 🟡 sources above repeat the 1 Michelin star and 17/20 G&M. **They are 
 | Gault & Millau guide entry (the text) | **Nothing located** |
 | Michelin guide entry | **Nothing located** |
 | Thuriès Gastronomie Magazine | **Nothing located** |
-| **Any review of La Table d'Anvers, from any source, any year** | **Nothing located** |
-| Evidence of Hôtel Martinez training | **Nothing. Searches contaminated by Christian Sinicropi** |
+| **Any review of La Table d'Anvers, from any source, any year** | **One located on the second pass: the GAYOT notice, praising Christian by name (`03` §2). Still nothing in the French press.** |
+| Published evidence of Hôtel Martinez training | **Nothing published. Searches contaminated by Christian Sinicropi. Now attested by family testimony — Chef Duparc, then Chef Christian Willer (`01` §2)** |
 | Evidence of an Alain Ducasse friendship | **Nothing** |
 | Evidence for fusion / Franco-Peruvian primacy | **Nothing** beyond the 1997 *Ceviche de langoustine* episode title |
 | **Any evidence of celebrity or political clientele** | **Nothing. No published source of any kind. See the prompt-echo warning in `07` Tier 4** |
@@ -143,11 +143,14 @@ Retrieve via an L'Express subscription, or consult the printed issue at the BnF.
 | The 1997 BnF "works" are TV episodes, not recipes | **Medium-high** | The `réal.` credit; strongly corroborated by the producer catalogue |
 | Libération, 12 Jul 1994, *Rebonds*, anti-"natural product" | **Medium** | Berthomeau, via indexing; the verb « dézingue » is his own |
 | Libération, 18 Apr 1998, cabbage recipes | **Medium** | URL, date and headline confirmed; **text unseen** |
-| 1 Michelin star + 17/20 G&M | **Medium** | Ubiquitous but **not independently sourced to any guide**; the repeating sources are not fully independent |
+| 1 Michelin star | **Medium** | Ubiquitous but **not sourced to any guide edition** |
+| 17/20 G&M specifically | **Low-medium** | Ubiquitous, unsourced, and **contradicted by the 16/20 on the one guide page located** (`03` §2.1) |
+| GAYOT review text, praising Christian's invention | **Medium** | Returned consistently by the index across repeated queries; page itself unread, and its price block post-dates the restaurant |
 | Father Roger; L'Express May 1993 | **Medium** | Single indexed source |
 | *La Cuisine gourmande des stars*, 1989 | **Medium** for existence; **Low** for attribution | Contested between the brothers |
 | Christian's post-1998 life | **None** | No evidence |
-| Martinez training | **None** | No evidence; contaminated by name collision |
+| Martinez training (Duparc, then Willer) | **Medium-high** | Direct family testimony; no published corroboration. Consistent with Willer taking the Martinez kitchen in 1985 |
+| Christian is the elder brother | **Medium-high** | Direct family testimony; consistent with his holding *chef de cuisine* over Philippe |
 | Ducasse friendship | **None** | No evidence |
 | Fusion primacy | **None** | No evidence |
 | Celebrity/political clientele | **None** | **No published evidence whatsoever** |
@@ -156,4 +159,4 @@ Retrieve via an L'Express subscription, or consult the printed issue at the BnF.
 
 ## F. The one-sentence version
 
-Zero of the eleven primary sources were retrieved; six were partially characterised through a search index; the dossier's single substantive new finding — that the 1997 Hervé This material is a television series and not a recipe collection — rests on a catalogue title fragment and a producer's synopsis, both read at one remove; and every remaining gap in it is closable by a human with a browser, a RetroNews login, and a day at the BnF.
+Zero of the eleven primary sources were retrieved across two independent retrieval attempts; the block was then worked around rather than accepted, which yielded a guide review whose subject is Christian himself and upgraded the television finding to a BnF *image animée* classification with Christian credited on conception; family testimony has since settled his birth order and his training under Duparc and Willer at the Martinez; and every remaining gap is closable by a human with a browser, a RetroNews login, and a day at the BnF.

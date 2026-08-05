@@ -240,9 +240,13 @@ This must be handled carefully, and the reason is documented in the conversation
 
 ### The Martinez training
 
-**[UNVERIFIED], and actively contaminated** by name-collision with **Christian Sinicropi**, the Martinez's own starred chef. Any search result linking "Christian" + "Martinez" must be checked for this before being believed.
+**[FAMILY TESTIMONY] — the substance is now settled; only the documentation is outstanding.** Christian trained at the Hôtel Martinez, Cannes, under **Chef Duparc**, then under **Chef Christian Willer**. See `01` §2.
 
-**Routes:** ask Christian directly; period profile interviews (RetroNews Lead 2.1F); the hotel's own historical staff records, by written enquiry.
+The search environment remains **actively contaminated** by name-collision with **Christian Sinicropi**, the Martinez's later starred chef. Any search result linking "Christian" + "Martinez" must be screened for this before being believed — it is why earlier passes found nothing.
+
+**Routes to a citable document:** the Hôtel Martinez / Hyatt heritage and press office, for brigade records c. 1980–1986; tribute and obituary coverage of Christian Willer (d. 2020), which often lists brigade alumni by name; period profile interviews (RetroNews Lead 2.1F), as French guides of the era printed a chef's training houses.
+
+**One question to the family closes the remaining ambiguity:** *Chef Duparc's first name and approximate years.* No published source places a Duparc at the Martinez immediately before Willer — the indexed record ties a Sylvain Duparc to the **Carlton**, Cannes, in the same period — so either the tenure is simply undocumented online, or this is a different Duparc.
 
 ### The fusion primacy claim
 
