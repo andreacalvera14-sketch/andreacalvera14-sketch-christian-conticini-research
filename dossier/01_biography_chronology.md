@@ -18,7 +18,8 @@ Every section separates **primary-source facts** from **inference**.
 
 - Christian Conticini is the **brother of Philippe Conticini** (b. 1963), the pastry chef. **[VERIFIED]**
 - The family is a restaurant family. The father is named **Roger Conticini**. **[PARTIAL]** — from the indexed summary of the L'Express article of May 1993, *"La maison Conticini, de fils en père."*
-- That article's substance, as indexed: contrary to the usual pattern in which sons leave fathers, **Roger first helped his two sons make La Table d'Anvers one of the recognised tables of Paris, and only then left to open his own house** — a bistro near the Champ-de-Mars, described in terms of an old-style *cantine* with *plats canailles* and good small wines. **[PARTIAL]**
+- That article's substance, as indexed: contrary to the usual pattern in which sons leave fathers, **Roger first helped his two sons make La Table d'Anvers one of the recognised tables of Paris, and only then left to open his own house** — a bistro near the Champ-de-Mars (7th arrondissement), described in terms of an old-style *cantine* with *plats canailles* and good small wines. **[PARTIAL]**
+  - **Note on addresses:** the Champ-de-Mars bistro is **Roger's own separate establishment**. La Table d'Anvers is elsewhere, at 2 place d'Anvers in the 9th arrondissement. The two must not be conflated.
 
 ### Inference (clearly marked as such)
 

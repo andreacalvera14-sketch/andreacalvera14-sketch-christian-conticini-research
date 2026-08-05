@@ -37,7 +37,7 @@ The only functioning external tool was an **indexed web-search** tool. Its outpu
 | 8 | `catalogue.bnf.fr/ark:/12148/cb444578192` | ❌ BLOCKED-DNS | none | **Low** — no record-specific content obtained | Likely another *Toques à la loupe* episode, inferred from ARK batch adjacency to #6 |
 | 9 | `catalogue.bnf.fr/liste-de-notices.do?arkNotice=ark:/12148/cb450830921` | ❌ BLOCKED-DNS | none | **Low** — nothing obtained | `liste-de-notices` returns a set → possibly the **series-level** record listing all 26 episodes |
 | 10 | `liberation.fr/futurs/1998/04/18/savez-vous-manger-les-choux-christian-conticini-detaille-quelques-recettes-de-son-cru_233485/` | ❌ BLOCKED-DNS / 🟡 | none | **Medium** for existence, date, title, byline; **zero** for body text | Also paywalled. Section is *futurs* (science). 18 Apr 1998 was a **Saturday** |
-| 11 | `lexpress.fr/informations/la-maison-conticini-de-fils-en-pere_594231.html` | ❌ BLOCKED-DNS / 🟡 | none | **Medium** — May 1993; father **Roger**; Champ-de-Mars bistro; "one of the recognised tables of Paris" | Likely paywalled |
+| 11 | `lexpress.fr/informations/la-maison-conticini-de-fils-en-pere_594231.html` | ❌ BLOCKED-DNS / 🟡 | none | **Medium** — May 1993; father **Roger**; Roger's *own separate* Champ-de-Mars bistro (not La Table d'Anvers); "one of the recognised tables of Paris" | Likely paywalled |
 
 **Score: 0 of 11 retrieved. 6 of 11 partially characterised via indexing. 5 of 11 essentially dark (#1, #3, #4, #8, #9).**
 

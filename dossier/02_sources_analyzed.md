@@ -232,7 +232,9 @@ https://www.lexpress.fr/informations/la-maison-conticini-de-fils-en-pere_594231.
 
 English: *"…contrary to the tradition in which 'sons leave fathers', it is Roger Conticini, the patriarch, who first helped his two sons make La Table d'Anvers one of the recognised tables of Paris, before leaving to open his own house. The article praises the convivial atmosphere and traditional cooking of this address, a step from the Champ-de-Mars, in the spirit of an old-fashioned canteen with 'hearty dishes and good little wines'…"*
 
-**Analysis.** Four extractable facts, all **[PARTIAL]**: the father is named **Roger**; he **worked at La Table d'Anvers** helping his sons before opening his own place; his own place is **near the Champ-de-Mars** (7th arrondissement) and is a traditional bistro; and by 1993 La Table d'Anvers was described as *"one of the recognised tables of Paris."*
+**Analysis.** Four extractable facts, all **[PARTIAL]**: the father is named **Roger**; he **worked at La Table d'Anvers** helping his sons before opening his own place; **Roger's own subsequent establishment — not La Table d'Anvers** — is a traditional bistro **near the Champ-de-Mars** (7th arrondissement); and by 1993 La Table d'Anvers was described as *"one of the recognised tables of Paris."*
+
+**Do not conflate the two addresses.** La Table d'Anvers is at **2 place d'Anvers, 75009** (9th arrondissement, at the foot of Montmartre). The Champ-de-Mars bistro is **Roger's separate venture** in the 7th, a different neighbourhood entirely, and has no bearing on the location or character of the restaurant that is this dossier's subject.
 
 That last phrase, if it is the article's own, is a **1993 third-party assessment of the restaurant's standing** from a national newsweekly — and therefore, since Christian ran the savoury kitchen, an assessment of his cooking. It is the closest thing in this dossier to a period critical judgement. **It must be handled carefully: the phrasing reaches us through a summary, not the page.**
 
